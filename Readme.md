@@ -1,4 +1,5 @@
-#Description
+# Description
+
 This code can simulate soil loss for any watershed based on RUSLE model. Using the specified inputs soil loss can be estimated.
    
 RUSLE equation is Revised Universal Soil Loss Equation
@@ -10,7 +11,8 @@ RUSLE equation is Revised Universal Soil Loss Equation
        C = Vegetative Cover Factor
        P = Conservation Practice Factor
 
-#Running the project
+# Running the project
+
 This project uses various inputs: 
 Geojason file of the watershed boundary
 Spatial distribution of Monthly precipitation
